@@ -1,0 +1,156 @@
+# Common Subdomain Wordlist
+# Default wordlist for subdomain discovery
+
+# Web services
+www
+web
+webmail
+mail
+email
+smtp
+pop
+pop3
+imap
+mx
+mx1
+mx2
+
+# Development
+dev
+development
+staging
+stage
+test
+testing
+qa
+uat
+demo
+beta
+alpha
+
+# API and Services
+api
+api1
+api2
+rest
+graphql
+gateway
+service
+services
+
+# Admin and Management
+admin
+administrator
+cpanel
+whm
+panel
+manage
+management
+portal
+
+# Infrastructure
+ns
+ns1
+ns2
+ns3
+dns
+ftp
+sftp
+ssh
+vpn
+remote
+proxy
+
+# Content Delivery
+cdn
+static
+assets
+img
+images
+image
+media
+video
+videos
+download
+downloads
+files
+
+# Mobile and Apps
+mobile
+m
+app
+apps
+android
+ios
+
+# Authentication
+login
+signin
+signup
+auth
+sso
+oauth
+ldap
+
+# Support and Documentation
+support
+help
+helpdesk
+docs
+documentation
+wiki
+kb
+knowledgebase
+forum
+forums
+community
+blog
+
+# E-commerce
+shop
+store
+cart
+checkout
+payment
+pay
+
+# Monitoring and Analytics
+monitor
+monitoring
+stats
+statistics
+analytics
+metrics
+logs
+
+# Cloud and Hosting
+cloud
+host
+hosting
+server
+servers
+
+# Security
+secure
+security
+firewall
+waf
+
+# Database
+db
+database
+mysql
+postgres
+mongodb
+redis
+
+# Other common
+status
+dashboard
+reports
+search
+old
+new
+backup
+temp
+tmp
